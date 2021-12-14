@@ -29,6 +29,48 @@ module.exports = {
     lastName: 'Cobain',
     genre: 'Rock',
   },
+  
+  cobain: {
+    firstName: 'Kurt',
+    lastName: 'Cobain',
+    genre: 'Rock',
+  },
+
+  cobain: {
+    firstName: 'Kurt',
+    lastName: 'Cobain',
+    genre: 'Rock',
+  },
+
+  cobain: {
+    firstName: 'Kurt',
+    lastName: 'Cobain',
+    genre: 'Rock',
+  },
+
+  cobain: {
+    firstName: 'Kurt',
+    lastName: 'Cobain',
+    genre: 'Rock',
+  },
+
+  cobain: {
+    firstName: 'Kurt',
+    lastName: 'Cobain',
+    genre: 'Rock',
+  },
+
+  cobain: {
+    firstName: 'Kurt',
+    lastName: 'Cobain',
+    genre: 'Rock',
+  },
+
+  cobain: {
+    firstName: 'Kurt',
+    lastName: 'Cobain',
+    genre: 'Rock',
+  },
 
   king: {
     firstName: 'Bo',
@@ -36,3 +78,5 @@ module.exports = {
     genre: 'Rock',
   },
 };
+
+
