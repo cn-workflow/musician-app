@@ -9,6 +9,11 @@ router.get('/health', (req, res) => {
   res.status('200').send("Status: ok!");
 });
 
+// HealthCheck
+router.get('/health', (req, res) => {
+    res.status('200').send("Status OKAY Hey There your pipeline is indeed working normally");
+  });
+
 // retrieve all musicians from data store
 router.get('/all', (req, res) => {
   const { musician } = req.app.locals;

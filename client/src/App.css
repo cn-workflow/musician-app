@@ -9,18 +9,18 @@
 }
 
 .App-header {
-  background-color: #eaedf3;
+  background-color: #e7eb1d;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(226, 79, 79);
 }
 
 .App-link {
-  color: #37e25c;
+  color: #3a37e2;
 }
 
 .navbar-item img {
