@@ -9,7 +9,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #eaedf3;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -20,7 +20,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #37e25c;
 }
 
 .navbar-item img {
@@ -28,7 +28,7 @@
 }
 
 .musician-card {
-  width: 30%;
+  width: 70%;
   float: left;
   margin-right: 1em;
 }
